@@ -1,0 +1,16 @@
+{
+  "name": "csv-utility",
+  "version": "1.0.0",
+  "description": "Contains useful functions for me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["utility", "functions", "npm"],
+  "author": "Oda",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
+
