@@ -69,3 +69,12 @@ function writeCSVfile(path, jsonData) {
 function removeDuplicates(arr) {
   return [...new Set(arr)];
 }
+
+module.exports = {
+  writeJSONFile,
+  readCSVFile,
+  readJSONFile,
+  calculatePercentage,
+  writeCSVfile,
+  removeDuplicates,
+};
