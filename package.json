@@ -1,6 +1,6 @@
 {
   "name": "aakash-utility",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Contains useful functions for me",
   "main": "index.js",
   "scripts": {
